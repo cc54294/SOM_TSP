@@ -8,7 +8,7 @@ SOM 称为竞争型神经网络 (自组织映射)，通常用于无监督学习�
 
 ## 效果
 
-![](https://github.com/cc54294/SOM_TSP/blob/master/gif/att48.gif)
+![1](https://github.com/cc54294/SOM_TSP/blob/master/gif/att48.gif)
 ![](https://github.com/cc54294/SOM_TSP/blob/master/gif/eil101.gif)
 ![](https://github.com/cc54294/SOM_TSP/blob/master/gif/tsp225.gif)
 ![](https://github.com/cc54294/SOM_TSP/blob/master/gif/pa561.gif)
